@@ -1,0 +1,10 @@
+# root dir
+path: training\LPR.yolov8
+
+# train, validation, test images (relative to 'path')
+train: train\images
+val: valid\images
+
+# classes
+names:
+  0: license_plate
